@@ -17,6 +17,6 @@
   <img src="https://img.shields.io/badge/-WhatsApp-0a0a0a?style=flat-square&labelColor=0a0a0a&logo=whatsapp&logoColor=0092FF&link=https://api.whatsapp.com/send?phone=5587991156513" alt="WhatsApp"/></a>
   <a href="https://www.facebook.com/profile.php?id=100070570160629" title="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-0a0a0a?style=flat-square&labelColor=0a0a0a&logo=facebook&logoColor=0092FF&link=https://www.facebook.com/profile.php?id=100070570160629" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/carlosallberto.dev" title="Instagram">
+  <a href="https://www.instagram.com/carlosalberto.dev" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-0a0a0a?style=flat-square&labelColor=0a0a0a&logo=instagram&logoColor=0092FF&link=https://www.instagram.com/carlosallberto.dev" alt="Instagram"/></a>
 </p>
