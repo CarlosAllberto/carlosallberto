@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=CarlosAllberto&color=0a0a0a&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na Mega Growth Marketing<br/> Eu sou Desenvolvedor Full-stack</p>
+<p>Trabalhando na Mega Growth Marketing<br/> Desenvolvedor Full Stack e Web Designer</p>
 
 #### você pode falar comigo por aqui 👇
 
