@@ -1,8 +1,8 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=carlosallberto&show_icons=true&title_color=ffffff&text_color=dddddd&icon_color=dddddd&bg_color=0a0a0a&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=carlosallberto&show_icons=true&title_color=ffffff&text_color=dddddd&icon_color=dddddd&bg_color=000000&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Carlos Alberto!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=CarlosAllberto&color=ffffff&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=CarlosAllberto&color=000000&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Desenvolvedor Pleno na <strong>FIC CAPITAL</strong><br/> Full Stack, Web Designer e Gestor de Automação</p>
 
