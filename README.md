@@ -6,7 +6,7 @@
 
 <p>Desenvolvedor Pleno na <strong>FIC CAPITAL</strong><br/> Full Stack, Web Designer e Gestor de Automação</p>
 
-#### você pode falar comigo por aqui 👇
+<p>você pode falar comigo por aqui 👇</p>
 
 <p align="left">
   <a href="mailto:dasilvacarlosalberto344@gmail.com" title="Gmail">
