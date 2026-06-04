@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=CarlosAllberto&color=000000&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Desenvolvedor Pleno<br/> Full Stack, Web Designer e Gestor de Automação</p>
+<p>CEO Treendz<br/> Full Stack, Web Designer e Gestor de Automação</p>
 
 <p>você pode falar comigo por aqui 👇</p>
 
