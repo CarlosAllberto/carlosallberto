@@ -1,3 +1,4 @@
+<!--
 <img align='right' src="https://github-readme-stats-fast.vercel.app/api?username=carlosallberto&show_icons=true&title_color=ffffff&text_color=dddddd&icon_color=dddddd&bg_color=000000&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Carlos Alberto!
@@ -16,3 +17,18 @@
   <a href="https://www.linkedin.com/in/carlosallberto344" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&link=https://www.instagram.com/carlosalberto.dev" alt="LinkedIn"/></a>
 </p>
+-->
+
+```
+,---,---,---,---,---,---,---,---,---,---,---,---,---,-------,
+| ~ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | [ | ] | <-    |
+|---'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-----|
+| ->| | " | , | . | P | Y | F | G | C | R | L | / | = |  \  |
+|-----',--',--',--',--',--',--',--',--',--',--',--',--'-----|
+| Caps | A | O | E | U | I | D | H | T | N | S | - |  Enter |
+|------'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'--------|
+|        | ; | Q | J | K | X | B | M | W | V | Z |          |
+|------,-',--'--,'---'---'---'---'---'---'-,-'---',--,------|
+| ctrl |  | alt |                          | alt  |  | ctrl |
+'------'  '-----'--------------------------'------'  '------'
+```
